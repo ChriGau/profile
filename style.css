@@ -1,0 +1,100 @@
+body {
+  color: #112a4c;
+  font-family: Lato;
+  background-color: #cbbeb3;
+  line-height: 15px;
+  font-size: 17px;
+  padding: 5px;
+}
+
+h1 {
+  color: #3E6680;
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: Open Sans;
+  line-height: 3px;
+  font-size: 18px;
+  padding: 5px
+}
+
+h2 {
+  color: #3E6680;
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: Arial;
+  line-height: 3px;
+  font-size: 25px;
+  padding: 5px;
+}
+
+h3 {
+text-align: center;
+}
+
+h4 {
+text-align: center;
+}
+
+p {
+  text-align: justify;
+  text-align: center;
+}
+
+ul{
+  padding: 5px;
+}
+
+a {
+color: green;
+padding: 5px;
+}
+
+a:hover {
+color: #d03638;
+}
+.blank_row{
+  color: white;
+}
+
+.container{
+background: white;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 4px;
+box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+.card text-center{
+  padding: 10px;
+}
+
+.img-circle {
+  width: 120px;
+  height: 120px;
+  box-shadow: 5px 5px 3px grey;
+  border: 2px solid #112a4c;
+}
+
+.btn btn-primary btn-lg {
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.image-resize {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.book_images {
+    width: 200px;
+    height: 250px;
+    text-align: left;
+    border-radius: 4px;
+    border: solid 3px;
+    box-shadow: 3px;
+}
