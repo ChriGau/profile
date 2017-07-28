@@ -4,7 +4,7 @@ body {
   background-color: #cbbeb3;
   line-height: 15px;
   font-size: 17px;
-  padding: 5px;
+  padding: 10px;
 }
 
 h1 {
@@ -52,21 +52,27 @@ padding: 5px;
 a:hover {
 color: #d03638;
 }
+
+.col-xs-6{
+  padding: 10px;
+  margin: 10px;
+}
+
 .blank_row{
   color: white;
 }
 
 .container{
 background: white;
-padding: 20px;
+padding: 10px;
 margin-bottom: 20px;
 border-radius: 4px;
-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.2);
 
 }
 
 .card text-center{
-  padding: 10px;
+  padding: 20px;
 }
 
 .img-circle {
